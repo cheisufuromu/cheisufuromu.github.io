@@ -1,0 +1,12 @@
+Architecture: iphoneos-arm
+Author: CheisuFuromu <cheisufuromu@outlook.com>
+Description: An awesome PreferenceLoader bundle 
+Maintainer: CheisuFuromu <cheisufuromu@outlook.com>
+Name: InternalSettings (iOS 7 and iOS 8)
+Package: is78
+Section: System
+Version: 1.0~publicbeta
+Filename: ./is78_1.0~publicbeta_iphoneos-arm.deb
+Size: 1992570
+MD5sum: 938ffb3ea4bbb9b09dbff702b0636f2c
+

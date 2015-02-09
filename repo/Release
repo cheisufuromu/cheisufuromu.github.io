@@ -1,0 +1,8 @@
+Origin: CheisuFuromu's Repo
+Label: CheisuFuromu's Repo
+Suite: stable
+Version: 1.0
+Codename: CheisuFuromu
+Architectures: iphoneos-arm
+Components: main
+Description: My New GitHub Repo!
